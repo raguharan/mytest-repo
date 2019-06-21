@@ -1,2 +1,2 @@
 # mytest-repo
-test my files
+greeting=helloworld
